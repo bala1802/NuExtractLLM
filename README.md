@@ -22,10 +22,3 @@ Currently, NuExtract is available in three different versions
 	6. The structured information can then be:
 		a. Used to populate a database
 		b. Directly utilized for automatic actions.
-
-
-	
-	
-![image](https://github.com/bala1802/NuExtractLLM/assets/22103095/544c3b0e-99a8-4736-8712-ab497cf8ce80)
-![image](https://github.com/bala1802/NuExtractLLM/assets/22103095/544c3b0e-99a8-4736-8712-ab497cf8ce80)
-
